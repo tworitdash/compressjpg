@@ -10,6 +10,6 @@ setup(name='compressjpg',
       packages=['compressjpg'],
       scripts=['bin/compress-jpg'],
       install_requires=[
-          'numpy', 'scipy', 'pillow',
+          'numpy', 'scipy', 'pillow', 'clint',
       ],
       zip_safe=False)

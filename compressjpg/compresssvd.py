@@ -6,15 +6,6 @@ from __future__ import print_function
 from PIL import Image
 import numpy as np
 import scipy.misc
-import matplotlib
-import numpy as np
-import matplotlib.pyplot as plt
-
-from plotly import __version__
-from plotly.offline import init_notebook_mode, plot, iplot
-from plotly.graph_objs import Scatter
-import plotly.graph_objs as go
-
 
 import sys
 import os
