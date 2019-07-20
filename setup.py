@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='compressjpg',
-      version='0.1',
+      version='0.2',
       description='Compressing jpg files with SVD algorithm',
       url='https://github.com/tworitdash/compressjpg',
       author='Tworit Dash',

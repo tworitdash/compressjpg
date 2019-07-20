@@ -1,7 +1,7 @@
 Metadata-Version: 1.0
 Name: compressjpg
-Version: 0.1
-Summary: The funniest joke in the world
+Version: 0.2
+Summary: Compressing jpg files with SVD algorithm
 Home-page: https://github.com/tworitdash/compressjpg
 Author: Tworit Dash
 Author-email: tworitdash@gmail.com
